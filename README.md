@@ -4,6 +4,14 @@ A curated list of resources related to the STAR voting project
 ## Contributing
 Pull Requests welcome!
 
+## Table of Contents
+- [Awesome STAR](#awesome-star)
+  - [Official Sites](#official-sites)
+  - [What is STAR Voting?](#official-sites)
+  - [How can I run a STAR election?](#how-can-i-run-a-star-election)
+  - [Software Projects](#software-projects)
+  - [Get Involved](#get-involved)
+
 ## Official Sites
  * [www.equal.vote](https://www.equal.vote/): This is the site for the equal voting coalition. It's a coalition including STAR, approval, and several other equal voting systems
  * [www.starvoting.us](https://www.starvoting.us/): This is the official site for the STAR voting movement
@@ -25,6 +33,7 @@ Want to learn what star voting is and how it works? There are some great resourc
 
 ## How can I run a STAR election?
  * [www.star.vote](https://www.star.vote/): Our official site for running STAR elections
+ * TODO: google forms link?
 
 ## Software Projects
  * [Equal-Vote Github Org](https://github.com/Equal-Vote): All official STAR voting projects will go under this github org
@@ -33,10 +42,10 @@ Want to learn what star voting is and how it works? There are some great resourc
 ### Legacy Projects
  * [STAR View](https://github.com/Equal-Vote/star-view): This backs the star view website and was our initial attempt at STAR VOTE 2.0 (this also uses [star-core](https://github.com/Equal-Vote/star-view)
  * [star.vote](https://github.com/msmunter/star.vote): Currently backing the star.vote website (will eventually be replaced by the star-server repo)
- * [Equal.vote](ttps://github.com/nardo/Equal.Vote): Mark Frohnmayer's Equal Vote Github
-
+ * [Equal.vote](https://github.com/nardo/Equal.Vote): Mark Frohnmayer's Equal Vote Github
 
 ## Get Involved
  * [Volunteer Page](https://www.starvoting.us/get_involved): Go here for information on how to join our email list / slack, and for volunteering opportunities
+ * TODO: discord link?
  * [Github Contributions](https://github.com/Equal-Vote/star-server/labels/good%20first%20issue): Go here to find "good first issue"s for your first PR!
 
